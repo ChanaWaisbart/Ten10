@@ -1,0 +1,261 @@
+{
+  "sellStartDate": [
+    {
+      "id": 1,
+      "date": "2021-04-26T11:56:00.528Z"
+    }
+  ],
+  "currentWeekProducts": [
+    {
+      "id": 1,
+      "productName": "בוגבו בי5 קורל",
+      "productDetails": "העגלות האיכותיות והמתקדמות ביותר. עיצוב ייחודי המספק סטייל ונוחות לחוויית ניידות מושלמת. נוחות מירבית. עיצוב ייחודי. נסיעה חלקה ונעימה. תקני בטיחות מחמירים.",
+      "productImage": "./images/bugabooo.gif",
+      "amountOrdered": 10,
+      "price": 3200
+    },
+    {
+      "amountOrdered": 1,
+      "price": 3500,
+      "productDetails": "ארון איכותי מאד בעל תכולה וחלוקה נוחה של המדפים. אחריות ל3 שנים",
+      "productImage": "./images/cupboard.jpg",
+      "productName": "ארון לחדר ילדים",
+      "id": 2
+    },
+    {
+      "amountOrdered": 2,
+      "price": 450,
+      "productDetails": "בית בובות ענק ומדהים הכולל 2 דמויות, אביזרים לעיצוב הבית, מדבקות, מדשאות ועוד הרבה!",
+      "productImage": "./images/playmobil.jpg",
+      "productName": "פליימוביל בית בובות ענק",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "productName": "ערכת מוצרים אולמיטיבית לטיפוח השיער",
+      "productDetails": "ערכת מוצרים אולמיטיבית לטיפוח השיער | 4 מוצרים שמפו 750 מל , מסכה 500 מל, סרום 120 מל, ספריי טיפולי 250 מל",
+      "productImage": "./images/Haircare(2).jpg",
+      "amountOrdered": 1,
+      "price": 180
+    },
+    {
+      "id": 11,
+      "productName": "סט מחליקי שיער דו קירמי",
+      "productDetails": "סט מחליקי שיער מבית CORTEX, לעיצוב השיער בקלות + Cortex Duo קורטקס מיני לטיולים",
+      "productImage": "./images/Hairstraightener(1).jpg",
+      "amountOrdered": 0,
+      "price": 200
+    },
+    {
+      "id": 14,
+      "productName": "שעון רולקס דייגאסט",
+      "productDetails": "הדגמים החדשים של הדייטג'אסט 36 מצוידים בקליבר 3235, מנגנון בחזית טכנולוגיית השענות. בדומה לכל השעונים של רולקס, הסאבמרינר 36 קיבל את הסמכת Superlative Chronometer, המבטיחה ביצועים גבוהים על פרק כף היד.",
+      "productImage": "./images/rolex.jpg",
+      "amountOrdered": 0,
+      "price": 20000
+    },
+    {
+      "id": 15,
+      "productName": "שעון יד מוזהב אנלוגי מבית Timex",
+      "productDetails": "שעון יד לאישה מבית TIMEX גוף השעון עשוי פליז מוזהב רצועת מש פלדת אל חלד נוחה לשימוש מנגנון QUARTZ אנלוגי אמין ומדויק ",
+      "productImage": "./images/Woman's watch (1).jpg",
+      "amountOrdered": 0,
+      "price": 200
+    },
+    {
+      "id": 16,
+      "productName": "כורסה מפנקת מבית LEONARDO",
+      "productDetails": "כורסת קלאסיק הינה כורסה מפנקת בעלת ריפוד בד רחיץ, עבה ואיכותי.היא מרווחת וכוללת כמובן ריקליינר. מבית LEONARDO ",
+      "productImage": "./images/lounge chair (3).jpg",
+      "amountOrdered": 0,
+      "price": 1100
+    },
+    {
+      "id": 17,
+      "productName": "סט שולחן עמיד ושיקי מבית KETER",
+      "productDetails": "סט מלודי הוא פתרון נהדר לארוחה קלה בגינה בימי השמש הנעימים השולחן והכסאות האיכותיים, שעמידים בפני פגעי מזג האוויר כולל פתח מתאים לשמשייה גדולה, להגנה בימים החמים ",
+      "productImage": "./images/Garden Furniture (3).jpg",
+      "amountOrdered": 0,
+      "price": 700
+    },
+    {
+      "id": 18,
+      "productName": "מסלול ריצה מקצועי מבית VO2 דגם",
+      "productDetails": "להיות הכי מהיר!!! מסלול ריצה מקצועי מבית VO2 9 תכניות אימון+ תכנית ידנית. שיפוע מכני 3 מצבים.",
+      "productImage": "./images/treadmill (1).jpg",
+      "amountOrdered": 0,
+      "price": 1200
+    }
+  ],
+  "nextWeekProducts": [],
+  "products": [
+    {
+      "id": 1,
+      "productName": "בוגבו בי5 קורל",
+      "productDetails": "העגלות האיכותיות והמתקדמות ביותר. עיצוב ייחודי המספק סטייל ונוחות לחוויית ניידות מושלמת. נוחות מירבית. עיצוב ייחודי. נסיעה חלקה ונעימה. תקני בטיחות מחמירים.",
+      "productImage": "./images/bugabooo.gif",
+      "amountOrdered": 0,
+      "price": 3200
+    },
+    {
+      "id": 2,
+      "productName": "ארון לחדר ילדים",
+      "productDetails": "ארון איכותי מאד בעל תכולה וחלוקה נוחה של המדפים. אחריות ל3 שנים",
+      "productImage": "./images/cupboard.jpg",
+      "amountOrdered": 0,
+      "price": 3500
+    },
+    {
+      "id": 5,
+      "productName": "מיקסר KENWOOD KMIX PICSSO",
+      "productDetails": "מיקסר מקצועי מסדרת היוקרה KENWOOD KMIX PICSSO מנוע חדש משופר וחזק 1000 וואט",
+      "productImage": "./images/kenwood.jpg",
+      "amountOrdered": 0,
+      "price": 1200
+    },
+    {
+      "id": 9,
+      "productName": "פליימוביל בית בובות ענק",
+      "productDetails": "בית בובות ענק ומדהים הכולל 2 דמויות, אביזרים לעיצוב הבית, מדבקות, מדשאות ועוד הרבה!",
+      "productImage": "./images/playmobil.jpg",
+      "amountOrdered": 0,
+      "price": 450
+    },
+    {
+      "id": 10,
+      "productName": "ערכת מוצרים אולמיטיבית לטיפוח השיער",
+      "productDetails": "ערכת מוצרים אולמיטיבית לטיפוח השיער | 4 מוצרים שמפו 750 מל , מסכה 500 מל, סרום 120 מל, ספריי טיפולי 250 מל",
+      "productImage": "./images/Haircare(2).jpg",
+      "amountOrdered": 0,
+      "price": 180
+    },
+    {
+      "id": 11,
+      "productName": "סט מחליקי שיער דו קירמי",
+      "productDetails": "סט מחליקי שיער מבית CORTEX, לעיצוב השיער בקלות + Cortex Duo קורטקס מיני לטיולים",
+      "productImage": "./images/Hairstraightener(1).jpg",
+      "amountOrdered": 0,
+      "price": 200
+    },
+    {
+      "id": 14,
+      "productName": "שעון רולקס דייגאסט",
+      "productDetails": "הדגמים החדשים של הדייטג'אסט 36 מצוידים בקליבר 3235, מנגנון בחזית טכנולוגיית השענות. בדומה לכל השעונים של רולקס, הסאבמרינר 36 קיבל את הסמכת Superlative Chronometer, המבטיחה ביצועים גבוהים על פרק כף היד.",
+      "productImage": "./images/rolex.jpg",
+      "amountOrdered": 0,
+      "price": 20000
+    },
+    {
+      "id": 15,
+      "productName": "שעון יד מוזהב אנלוגי מבית Timex",
+      "productDetails": "שעון יד לאישה מבית TIMEX גוף השעון עשוי פליז מוזהב רצועת מש פלדת אל חלד נוחה לשימוש מנגנון QUARTZ אנלוגי אמין ומדויק ",
+      "productImage": "./images/Woman's watch (1).jpg",
+      "amountOrdered": 0,
+      "price": 200
+    },
+    {
+      "id": 16,
+      "productName": "כורסה מפנקת מבית LEONARDO",
+      "productDetails": "כורסת קלאסיק הינה כורסה מפנקת בעלת ריפוד בד רחיץ, עבה ואיכותי.היא מרווחת וכוללת כמובן ריקליינר. מבית LEONARDO ",
+      "productImage": "./images/lounge chair (3).jpg",
+      "amountOrdered": 0,
+      "price": 1100
+    },
+    {
+      "id": 17,
+      "productName": "סט שולחן עמיד ושיקי מבית KETER",
+      "productDetails": "סט מלודי הוא פתרון נהדר לארוחה קלה בגינה בימי השמש הנעימים השולחן והכסאות האיכותיים, שעמידים בפני פגעי מזג האוויר כולל פתח מתאים לשמשייה גדולה, להגנה בימים החמים ",
+      "productImage": "./images/Garden Furniture (3).jpg",
+      "amountOrdered": 0,
+      "price": 700
+    },
+    {
+      "id": 18,
+      "productName": "מסלול ריצה מקצועי מבית VO2 דגם",
+      "productDetails": "להיות הכי מהיר!!! מסלול ריצה מקצועי מבית VO2 9 תכניות אימון+ תכנית ידנית. שיפוע מכני 3 מצבים.",
+      "productImage": "./images/treadmill (1).jpg",
+      "amountOrdered": 0,
+      "price": 1200
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "userName": "מנהל",
+      "email": "ten10.earn10@gmail.com",
+      "password": "tenearn1010",
+      "phone": "0527777536",
+      "address": "jjj",
+      "isManager": true,
+      "city": "אלעדת",
+      "street": "הריףך",
+      "streetNum": "4"
+    },
+    {
+      "id": "efb0e524-a87f-46f1-8de3-d30be79cfcf3",
+      "userName": " ללי",
+      "email": "Lali@gmail.com",
+      "password": "12345678p",
+      "phone": "0527159536",
+      "address": "אלעד",
+      "isManager": false,
+      "city": "ירושלים",
+      "street": "רחביה",
+      "streetNum": "1"
+    },
+    {
+      "id": "0206de73-5f67-4279-805a-a21093770098",
+      "userName": " אמא",
+      "email": "d.waisbart@gmail.comd",
+      "password": "1234567d",
+      "phone": "0527159536",
+      "address": "אלעד",
+      "isManager": false
+    }
+  ],
+  "usersOrders": [
+    {
+      "id": "40b92a4e-523c-4211-83e4-7687946c98d9",
+      "userId": 1,
+      "orders": [
+        {
+          "id": "d6c134fc-e62b-49ac-9fae-10e2f2e6dc33",
+          "productId": 1,
+          "amount": 7
+        }
+      ]
+    },
+    {
+      "id": "6487ab3c-cbc7-4e55-bc32-505fb80b0a0f",
+      "userId": "efb0e524-a87f-46f1-8de3-d30be79cfcf3",
+      "orders": [
+        {
+          "id": "a877ee00-389b-4f55-9b68-506fede5ff53",
+          "productId": 2,
+          "amount": 1
+        },
+        {
+          "id": "0ba2aefe-7412-4311-b50b-8ff52ce02a17",
+          "productId": 9,
+          "amount": 1
+        }
+      ]
+    },
+    {
+      "id": "3a0f6f96-38e2-4b6c-87c2-eba522c8ed28",
+      "userId": "0206de73-5f67-4279-805a-a21093770098",
+      "orders": [
+        {
+          "id": "5c3ead18-36b1-49b4-8973-7c0b87ed491b",
+          "productId": 9,
+          "amount": 1
+        },
+        {
+          "id": "336b2a9a-f4a6-4a7f-be97-58faaa5eaac9",
+          "productId": 10,
+          "amount": 1
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.quarterCircleBottomLeft{
+    width: 600px;; 
+    height: 600px;; 
+    border-radius: 0 0 540px 0;
+}
+
+.quarterCircleTopLeft{
+    width: 400px;; 
+    height:250px; 
+    border-radius: 360px 0 0 0;
+}
+
+.homePage {
+    background-image:url('11.jpg')
+    }
